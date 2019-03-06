@@ -20,6 +20,25 @@ th, td {
     font-size: 2em;
 }
 
-caption {
-    align-content: center;
+th {
+    border-color: white;
+    background-color: rgb(25,25,112);
+}
+
+a {
+    color: rgb(0,191,255)
+}
+
+img {
+    height: 225px;
+    width: 225px;
+}
+
+div {
+    display: float;
+    text-align: center;
+}
+
+footer {
+    font-size: 10px;
 }
